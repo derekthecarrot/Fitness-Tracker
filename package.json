@@ -12,8 +12,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
-    "mongoose": "^5.3.16",
-    "morgan": "^1.9.1"
-  }
+    "express": "^4.17.2",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/derekthecarrot/Fitness-Tracker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/derekthecarrot/Fitness-Tracker/issues"
+  },
+  "homepage": "https://github.com/derekthecarrot/Fitness-Tracker#readme"
 }
