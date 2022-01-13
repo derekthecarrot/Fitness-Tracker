@@ -19,8 +19,8 @@ User will need to install and copy repository and use application within termina
 
 In order to use this application, you will need node.js installed and will have to run node index.js after running an npm init and npm install in the terminal.
 
-
-![My Website](./Assets/screenshot.PNG)
+Deployed Application:
+https://guarded-forest-76392.herokuapp.com/
 
 
 ## License
