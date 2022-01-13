@@ -1,4 +1,3 @@
 module.exports = {
-  // keys for every model created
-  Workout: require("./workout"),
-};
+    Workout: require("./Workout"),
+  };
